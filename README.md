@@ -10,7 +10,7 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Android Developer ⭐ from Pa
 </a>
 <a href="https://www.linkedin.com/in/ibrahimmushtaha/" rel="nofollow">
   <img align="left" alt="Ibrahim Mushtaha | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/006-linkedin.png?raw=true" style="max-width:100%;">
-</a>
+</a><br>
 
 
 ### OBJECTIVE
