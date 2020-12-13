@@ -10,6 +10,10 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Android Developer ⭐ from Pa
 </a>
 <a href="https://www.linkedin.com/in/ibrahimmushtaha/" rel="nofollow">
   <img align="left" alt="Ibrahim Mushtaha | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/006-linkedin.png?raw=true" style="max-width:100%;">
+</a>
+
+<a href="https://twitter.com/IbrahimMushtah3" rel="nofollow">
+  <img align="left" alt="Ibrahim Mushtaha | twitter " width="21px" src="https://user-images.githubusercontent.com/41232970/101995968-ef46e200-3cd6-11eb-82c9-2f9cf297dfe1.png" style="max-width:100%;">
 </a><br>
 
 
