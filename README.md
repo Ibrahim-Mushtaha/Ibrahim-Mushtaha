@@ -23,7 +23,7 @@ I'm an ANDROID Developer Kotlin with experience of working on a variety of proje
 
 🔭 I’m currently working at <a href="https://www.upwork.com/fl/ibrahimmushtaha" rel="nofollow">Upwork</a><br>
 🔭 I’m currently working at <a href="https://mostaql.com/u/Ibrahim_Mushtah" rel="nofollow">Mostaql</a><br>
-🌱 I’m currently learning <a href="https://guides.codepath.com/android/dependency-injection-with-dagger-2" rel="nofollow">Dependency Injection with Dagger 2</a><br>
+🌱 I’m currently learning <a href="https://developer.android.com/training/dependency-injection/hilt-android" rel="nofollow">Dependency injection with Hilt</a><br>
 💬 Ask me about anything <a href="https://github.com/Ibrahim-Mushtaha/Ibrahim-Mushtaha/issues" rel="nofollow">here</a><br>
 
 <p>
