@@ -5,7 +5,7 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Android Developer ⭐ from Pa
 <a href="https://www.facebook.com/ibrahim.mushtaha2/" rel="nofollow">
 <img align="left" alt="Ibrahim Mushtaha | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/005-facebook.png?raw=true" style="max-width:100%;">
   </a>
-  <a href="https://www.instagram.com/ui.ibarhim/" rel="nofollow">
+  <a href="https://www.instagram.com/ix.ibrahim7/" rel="nofollow">
   <img align="left" alt="Ibrahim Mushtaha | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/003-instagram.png?raw=true" style="max-width:100%;">
 </a>
 <a href="https://www.linkedin.com/in/ibrahimmushtaha/" rel="nofollow">
