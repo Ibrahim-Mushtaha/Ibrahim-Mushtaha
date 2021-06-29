@@ -19,7 +19,7 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Android Developer ⭐ from Pa
 
 ### OBJECTIVE
 
-I'm an ANDROID Developer Kotlin with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding , Live Data , MutableLiveData and GitHub to work with a team.
+I'm an android developer kotlin & java with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding , Live Data , MutableLiveData and GitHub to work with a team.
 
 🔭 I’m currently working at <a href="https://www.upwork.com/fl/ibrahimmushtaha" rel="nofollow">Upwork</a><br>
 🔭 I’m currently working at <a href="https://mostaql.com/u/Ibrahim_Mushtah" rel="nofollow">Mostaql</a><br>
