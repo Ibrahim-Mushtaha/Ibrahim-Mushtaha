@@ -23,7 +23,6 @@ I'm an android developer kotlin & java with experience of working on a variety o
 
 🔭 I’m currently working at <a href="https://www.upwork.com/fl/ibrahimmushtaha" rel="nofollow">Upwork</a><br>
 🔭 I’m currently working at <a href="https://mostaql.com/u/Ibrahim_Mushtah" rel="nofollow">Mostaql</a><br>
-<!––🌱 I’m currently learning <a href="https://flutter.dev/docs" rel="nofollow">Flutter</a><br>-->
 💬 Ask me about anything <a href="https://github.com/Ibrahim-Mushtaha/Ibrahim-Mushtaha/issues" rel="nofollow">here</a><br>
 
 <p>
