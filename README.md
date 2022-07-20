@@ -1,6 +1,6 @@
 ### Hello , I'm Ibrahim! 👋 
  
-Hi, I'm Ibrahim Mushtaha, a passionate self-taught Native Android Developer & Flutter Developer ⭐ from Palestine.
+Hi, I'm Ibrahim Mushtaha, a passionate self-taught Native Android Developer & Backend Developer ⭐ from Palestine.
 
 <a href="https://www.facebook.com/ibrahim.mushtaha2/" rel="nofollow">
 <img align="left" alt="Ibrahim Mushtaha | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/005-facebook.png?raw=true" style="max-width:100%;">
