@@ -1,6 +1,6 @@
 ### Hello , I'm Ibrahim! 👋 
  
-Hi, I'm Ibrahim Mushtaha, a passionate self-taught Native Android Developer & Backend Developer ⭐ from Palestine.
+Hi, I'm Ibrahim Mushtaha, a passionate self-taught Backend Developer & UX/UI Designer ⭐ from Palestine.
 
 <a href="https://www.facebook.com/ibrahim.mushtaha2/" rel="nofollow">
 <img align="left" alt="Ibrahim Mushtaha | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/005-facebook.png?raw=true" style="max-width:100%;">
@@ -19,7 +19,25 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Native Android Developer & Ba
 
 ### OBJECTIVE 
 
-I'm an android developer kotlin & java with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Google Admob, Service, Broadcast Receiver knowledge and power to use Databinding , Live Data , MutableLiveData and GitHub to work with a team.
+I'm Ibrahim Laravel Developer and UX/UI Designer with many years of experience,
+passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.
+
+⚡️ Working as a freelancer I've completed dozens of projects of different kinds and complexity for clients representing various industries.
+
+🔥 “Imagine, Create, Inspire!” – the three words that guide my work 🔥
+
+Services I provide:👇
+
+✅ Database designed and developed for website career stage.<br>
+✅ Database modeled tables and their relationship.<br>
+✅ Build, and maintain high-performance, reusable, and reliable code.<br>
+✅ Involved in the design, analysis, development, testing, and deployment.<br>
+✅ Ensure the best possible performance, quality, and responsiveness of the application.<br>
+✅ Identify and correct bottlenecks and fix bugs.<br>
+✅ UX Consultant.<br>
+✅ Wire-framing.<br>
+✅ Prototyping.<br>
+✅ User Interface Design: Websites, Landing Pages, Mobile Websites and Mobile Apps, Desktop Software.<br>
 
 🔭 I’m currently working at <a href="https://www.upwork.com/fl/ibrahimmushtaha" rel="nofollow">Upwork</a><br>
 🔭 I’m currently working at <a href="https://mostaql.com/u/Ibrahim_Mushtah" rel="nofollow">Mostaql</a><br>
