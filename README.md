@@ -1,6 +1,7 @@
 ### Hello , I'm Ibrahim! 👋 
  
-Hi, I'm Ibrahim Mushtaha, a passionate self-taught Backend Developer & UX/UI Designer ⭐ from Palestine.
+Hi, I'm Ibrahim Laravel Developer 🌐 and UX/UI Designer 🖌️ with many years of experience,
+passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.
 
 <a href="https://www.facebook.com/ibrahim.mushtaha2/" rel="nofollow">
 <img align="left" alt="Ibrahim Mushtaha | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/005-facebook.png?raw=true" style="max-width:100%;">
@@ -18,9 +19,6 @@ Hi, I'm Ibrahim Mushtaha, a passionate self-taught Backend Developer & UX/UI Des
 
 
 ### OBJECTIVE 
-
-I'm Ibrahim Laravel Developer and UX/UI Designer with many years of experience,
-passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.
 
 ⚡️ Working as a freelancer I've completed dozens of projects of different kinds and complexity for clients representing various industries.
 
