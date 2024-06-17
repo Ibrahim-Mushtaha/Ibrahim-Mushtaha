@@ -1,7 +1,6 @@
 ### Hello , I'm Ibrahim! 👋  
  
-Hi, I'm Ibrahim Laravel Developer 🌐 and UX/UI Designer 🖌️ with many years of experience,
-passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.
+Hi, I'm Ibrahim, a Product Designer 🖌️ with many years of experience. I'm passionate about transforming your ideas into visuals that perfectly suit you or your business ⚡🚀. I also have previous experience in Android development using Kotlin, which adds a unique perspective to my design approach.
 
 <a href="https://www.facebook.com/ibrahim.mushtaha2/" rel="nofollow">
 <img align="left" alt="Ibrahim Mushtaha | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/raw/master/005-facebook.png?raw=true" style="max-width:100%;">
